@@ -62,3 +62,15 @@ Testing and Validation: Ensure application functionality through comprehensive t
 
 The Fitness Tracker project serves as an innovative tool for individuals seeking to enhance their fitness routines. By combining technology with health insights, this application aims to motivate users to achieve their fitness goals effectively.
 
+# Site:
+
+<img width="452" alt="image" src="https://github.com/user-attachments/assets/8aea2c98-41d8-4534-8b97-1ea93fa4de87">
+
+![image](https://github.com/user-attachments/assets/92a52382-c2f5-4a05-8a77-11dd8f39b578)
+
+![image](https://github.com/user-attachments/assets/954c9de5-ec5c-4c44-a775-e32ae441815f)
+
+
+
+
+
