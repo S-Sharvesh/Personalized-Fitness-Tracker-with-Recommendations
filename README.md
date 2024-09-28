@@ -1,5 +1,7 @@
 # Personalized-Fitness-Tracker-with-Recommendations
 
+# For reference go through the PDF file given.
+
 # Project Overview:
 
 The Fitness Tracker is a comprehensive web application designed to help users monitor and manage their fitness activities. With a user-friendly interface, this application allows individuals to log exercises, track progress, and receive personalized recommendations based on their fitness goals. It leverages a robust backend database to store user data securely and efficiently.
